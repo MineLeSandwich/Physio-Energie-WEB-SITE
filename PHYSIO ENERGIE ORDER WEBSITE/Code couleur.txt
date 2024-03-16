@@ -1,0 +1,6 @@
+#9563A2		mauve
+#7477AC		mauve clair
+#07ACBF 	bleu
+#CBF1F4		bleu clair
+#fefae0     BG
+#FDF7FE		BG S
